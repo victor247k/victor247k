@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @victor247k
-- 👀 I’m interested in programming, problem solving, software engeneering and Linux
-- 🌱 I’m currently learning Golang 
-- 💞️ I’m looking to collaborate on projects, jobs
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/spineivictor/)
+- 👋 Hi, I’m @victorspinei
+wip
