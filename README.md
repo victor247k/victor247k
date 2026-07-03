@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @victorspinei
-wip
+- 👋 Hi, I’m @victorspinei;
+- WIP
